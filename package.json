@@ -1,0 +1,21 @@
+{
+  "name": "os_word_counter",
+  "version": "1.0.1",
+  "description": "It is simple word counter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "publish": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
